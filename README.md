@@ -7,3 +7,5 @@
 
   【notion笔记库】https://www.notion.so/03_27_html-css-83ac397b1cb641c3955ae01b75edc216
 
+3/30完成第一小节～34的学习
+学的有点想死，晚上再背一下md语法
